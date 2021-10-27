@@ -1,4 +1,4 @@
-# Daily-Coading-Problem-15
+# Daily-Coding-Problem-15
 Daily Coading Problem Challenge
 
 This problem was asked by Facebook.
